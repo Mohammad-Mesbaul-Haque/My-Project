@@ -1,0 +1,1 @@
+This is my first project. I created a simple page where you can generate a random color in screen with its hexadecimal code. 
